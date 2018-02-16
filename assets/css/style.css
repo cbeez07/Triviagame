@@ -1,0 +1,26 @@
+.jumbotron {
+  background-color: rgba(0, 0, 0, 0);
+}
+button {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.bg, body {
+  /* The image used */
+  background-image: url(../images/background.jpg);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  width: 300px;
+}
+
+.header {
+  font-family: 'Gloria Hallelujah', cursive;
+}
